@@ -1,5 +1,5 @@
 # 🧪 Hands-On Lab: Prompt Engineering for Law Enforcement
-### Module 2 | GenAI Training Programme for IPS Officers
+### Module 2 | GenAI Training Programme for Officers
 **Duration:** 60 Minutes | **Format:** Individual + Group Exercise  
 **Tools Required:** ChatGPT (chat.openai.com) or Claude (claude.ai) — browser access needed
 
