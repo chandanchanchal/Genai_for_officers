@@ -1,0 +1,111 @@
+Step 1: Open Custom Agents
+
+Go to:
+
+Julius Custom Agents Page
+
+Or click “Custom Agents” from the left sidebar inside Julius.
+
+Step 2: Click “Create Agent”
+
+Press the Create Agent button.
+
+This opens the agent configuration screen where you define how the AI behaves.
+
+Step 3: Give Your Agent a Name
+
+Choose a clear descriptive name.
+
+Examples:
+
+Sales Dashboard Analyst
+Finance Reporting Assistant
+Marketing Insights Agent
+SQL Data Helper
+
+Step 4: Add Instructions
+
+This is the most important section.
+
+Write detailed instructions about:
+
+What the agent should do
+Tone/style
+Output format
+Rules it must follow
+
+Example:
+
+You are a financial analyst.
+Always create executive summaries.
+Use tables and charts when possible.
+Highlight anomalies and trends.
+
+The instructions become part of the system prompt used by Julius.
+
+Step 5: Add Training Examples
+
+Add sample prompts and ideal responses.
+
+Example:
+
+User: “Show monthly revenue trends”
+Expected Output: revenue chart + business insights
+
+This helps the agent learn your preferred workflow and response style.
+
+Step 6: Upload Knowledge Base Files
+
+You can connect:
+
+CSV files
+Excel sheets
+PDFs
+Documents
+Databases
+
+The agent will use these as its knowledge source.
+
+Step 7: Configure Behavior
+
+Optional settings may include:
+
+Preferred output style
+Visualization preferences
+Analysis depth
+Response formatting
+
+Example:
+
+Always generate charts
+Use Python for calculations
+Summarize before detailed analysis
+Step 8: Save the Agent
+
+Click Save or Create Agent.
+
+Your custom agent is now ready.
+
+Step 9: Activate the Agent
+
+Open a new chat and select the agent from the agent dropdown menu.
+
+Once activated:
+
+Every prompt in that chat uses your agent’s configuration
+The knowledge base and instructions apply automatically
+Step 10: Test and Improve
+
+Ask questions like:
+
+“Analyze sales performance”
+“Create dashboard insights”
+“Forecast next quarter revenue”
+
+Then refine:
+
+Instructions
+Training examples
+Knowledge files
+
+to improve results over time.
